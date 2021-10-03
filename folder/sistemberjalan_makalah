@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-03T13:31:01.435Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="HLvOJVykf0nW6FjNHg8f" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-03T13:31:35.045Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="FaZVxoh6ToVt2UdPZ-8Q" version="15.4.1" type="github">
   <diagram id="SNlmgElnhFglWWCS_Xfg" name="Page-1">
     <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,11 +8,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vz8xQ5DEa37nMY7JyOw3-1" value="Responden" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="110" width="30" height="60" as="geometry" />
+          <mxGeometry x="280" y="110" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vz8xQ5DEa37nMY7JyOw3-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" target="Vz8xQ5DEa37nMY7JyOw3-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="340" as="sourcePoint" />
+            <mxPoint x="670" y="340" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Vz8xQ5DEa37nMY7JyOw3-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Vz8xQ5DEa37nMY7JyOw3-2" target="Vz8xQ5DEa37nMY7JyOw3-8">
@@ -22,7 +22,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vz8xQ5DEa37nMY7JyOw3-2" value="Petugas" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="310" width="30" height="60" as="geometry" />
+          <mxGeometry x="660" y="310" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vz8xQ5DEa37nMY7JyOw3-6" value="&lt;font size=&quot;3&quot;&gt;Mengisi Kuisioner&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="100" width="120" height="80" as="geometry" />
