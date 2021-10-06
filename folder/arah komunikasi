@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-10-06T04:54:00.365Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" version="15.4.3" etag="INaUnBgqxP8aZL6ZZEqZ" type="github"><diagram id="Kq9pampRjVzraGuTsyl1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-06T04:56:34.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="NhnppJ1MxhZr3Q12pl5O" version="15.4.3" type="github">
+  <diagram id="Kq9pampRjVzraGuTsyl1" name="Page-1">
+    <mxGraphModel dx="1038" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1Wco43gw3JngAIOVSzrf-1" value="Kepala Dinas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Wco43gw3JngAIOVSzrf-2" value="Sekretaris" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Wco43gw3JngAIOVSzrf-4" value="Kepala Bagian" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Wco43gw3JngAIOVSzrf-5" value="Kepala Seksi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Wco43gw3JngAIOVSzrf-6" value="Pegawai" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Wco43gw3JngAIOVSzrf-7" value="KOMUNIKASI&lt;br&gt;KE ATAS" style="shape=singleArrow;direction=north;whiteSpace=wrap;html=1;arrowWidth=0.52;arrowSize=0.1923078096829928;" vertex="1" parent="1">
+          <mxGeometry x="470" y="200" width="150" height="260" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
