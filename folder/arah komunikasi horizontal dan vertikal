@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-06T05:11:16.111Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="nUVgHEVTZb8OS6agMD1p" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-06T05:20:58.134Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="M-bWsrBWVPmIBTBXDxJL" version="15.4.3" type="github">
   <diagram id="occ5gFLBV3Wu2CQvyVuv" name="Page-1">
     <mxGraphModel dx="865" dy="443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,13 +13,13 @@
         <mxCell id="AzdA9YxhnGDCdKSqWKne-2" value="Sekretaris" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AzdA9YxhnGDCdKSqWKne-3" value="Kepala Bagian" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AzdA9YxhnGDCdKSqWKne-3" value="Kepala Bidang" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AzdA9YxhnGDCdKSqWKne-4" value="Kepala Seksi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AzdA9YxhnGDCdKSqWKne-6" value="Kepala Bagian" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AzdA9YxhnGDCdKSqWKne-6" value="Kepala Bidang" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AzdA9YxhnGDCdKSqWKne-7" value="Kepala Seksi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
