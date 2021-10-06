@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-06T05:00:30.190Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="k9x9dyr7YTEWRs7HcN4C" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-06T05:20:45.419Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="lJH97w4yyvrKghVvAqHE" version="15.4.3" type="github">
   <diagram id="Kq9pampRjVzraGuTsyl1" name="Page-1">
     <mxGraphModel dx="1038" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="1Wco43gw3JngAIOVSzrf-2" value="Sekretaris" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1Wco43gw3JngAIOVSzrf-4" value="Kepala Bagian" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1Wco43gw3JngAIOVSzrf-4" value="Kepala Bidang" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Wco43gw3JngAIOVSzrf-5" value="Kepala Seksi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
